@@ -1,1 +1,1 @@
-# loginpage_js
+# loginpage-js
